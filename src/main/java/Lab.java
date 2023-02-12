@@ -10,7 +10,10 @@ public class Lab {
      * @param b second number to be added.
      * @return the sum of a and b.
      */
+
+    
     public int addNumbers(int a, int b){
-        return 0;
+        return a+b;
     }
+   
 }
